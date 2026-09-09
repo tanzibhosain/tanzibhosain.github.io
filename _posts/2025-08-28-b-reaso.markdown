@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[B-REASO: A Multi-Level Multi-Faceted Bengali Evaluation Suite for Foundation Models](https://aclanthology.org/2025.findings-emnlp.492/)"
+title:  "B-REASO: A Multi-Level Multi-Faceted Bengali Evaluation Suite for Foundation Models"
 image: /images/b-reaso.png
 categories: research
 author: "Md Tanzib Hosain"
