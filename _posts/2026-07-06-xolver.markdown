@@ -4,10 +4,9 @@ title:  "Xolver: Generalist Reasoning and Problem Solving through Federated Mult
 image: /images/xolver.png
 categories: research
 author: "Md Tanzib Hosain"
-venue: ICML (AI4MATH)
+venue: ICML 2026 AI4Math
 authors: "<strong>Md Tanzib Hosain</strong>, Salman Rahman, Md Kishor Morol, Md Rizwan Parvez"
 paper: https://openreview.net/forum?id=EvU0vEo7er
 code: https://github.com/kagnlp/Xolver/
 website: https://kagnlp.github.io/xolver.github.io/
 ---
-We introduce 𝕏olver—a training-free, multi-agent reasoning framework that equips a black-box LLM with a persistent, evolving memory of holistic experience.
