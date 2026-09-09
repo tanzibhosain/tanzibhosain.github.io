@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "HI-REASO: A Multi-Level Multi-Faceted Hindi Mathematical Evaluation Suite for Foundation Models"
+image: /images/b-reaso.png
+categories: research
+author: "Md Tanzib Hosain"
+venue: EMNLP 2026 Findings
+authors: "<strong>Md Tanzib Hosain</strong>, Rajan Das Gupta, Zannatul Ferdous Tripty, Md Kishor Morol"
+code: https://github.com/kraritt/hi-reaso/
+---
