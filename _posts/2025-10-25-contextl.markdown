@@ -4,9 +4,8 @@ title:  "Intrinsic Linguistic Bias in Formal vs. Informal Bengali Pragmatics wit
 image: /images/ijcnlp-aacl 25.png
 categories: research
 author: "Md Tanzib Hosain"
-venue: IJCNLP-AACL (Findings; <span style="color:red"><strong>D&amp;I Award</strong></span>)
+venue: IJCNLP-AACL 2025 Findings (<span style="color:red"><strong>D&amp;I Award</strong></span>)
 authors: "<strong>Md Tanzib Hosain</strong>, Md Kishor Morol"
 paper: https://aclanthology.org/2025.findings-ijcnlp.21/
 code: https://github.com/kraritt/b-bias-ctext
 ---
-We studied observational measures of intrinsic gender bias in formal and informal bengali; the optimal context length influences on bias detection.
