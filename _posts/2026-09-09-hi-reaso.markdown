@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HI-REASO: A Multi-Level Multi-Faceted Hindi Mathematical Evaluation Suite for Foundation Models"
-image: /images/b-reaso.png
+image: /images/hi-reaso.png
 categories: research
 author: "Md Tanzib Hosain"
 venue: EMNLP 2026 Findings
