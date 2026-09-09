@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "B-REASO: A Multi-Level Multi-Faceted Bengali Evaluation Suite for Foundation Models"
+title:  "[B-REASO: A Multi-Level Multi-Faceted Bengali Evaluation Suite for Foundation Models](https://aclanthology.org/2025.findings-emnlp.492/)"
 image: /images/b-reaso.png
 categories: research
 author: "Md Tanzib Hosain"
-venue: EMNLP (Findings)
+venue: EMNLP 2025 Findings
 authors: "<strong>Md Tanzib Hosain</strong>, Md Kishor Morol"
 paper: https://aclanthology.org/2025.findings-emnlp.492/
 code: https://github.com/kraritt/b-reaso/
 huggingface: https://huggingface.co/datasets/krarit/b-reaso/
 ---
-We introduce a bengali language benchmark for large language models, covering 13,497 multiple-choice questions in 50 different subjects, divided into 4 levels of difficulty.
