@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "BRACE: An R Benchmark for Rigorous Biomedical Data Science Code Search"
+image: /images/brace.png
+categories: research
+author: "Md Tanzib Hosain"
+venue: ICLR 2027 under review
+authors: "<strong>Md Tanzib Hosain</strong>, Azmine Toushik Wasi, Salman Rahman, Md Mofijul Islam, Mohammad Ali Moni, Mohammed Eunus Ali, Usman Naseem, Md Rizwan Parvez"
+paper: 
+code: 
+---
