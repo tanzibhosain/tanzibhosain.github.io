@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "When Do Subgroup Specific Acceptance Policies Help in Medical Evidence Verification?"
+image: /images/aistats27.png
+categories: research
+author: "Md Tanzib Hosain"
+venue: AISTATS 2027 
+authors: "Azmine Toushik Wasi, <strong>Md Tanzib Hosain</strong>, Adinath Madhavrao Dukre, Md Manjurul Ahsan, Muhammad Awais, Sara Atito, Imran Razzak"
+---
