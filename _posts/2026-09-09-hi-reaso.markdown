@@ -8,4 +8,5 @@ venue: EMNLP 2026 Findings
 authors: "<strong>Md Tanzib Hosain</strong>, Rajan Das Gupta, Zannatul Ferdous Tripty, Md Kishor Morol"
 code: https://github.com/kraritt/hi-reaso/
 paper: https://aclanthology.org/2026.findings-emnlp.481/
+huggingface: https://huggingface.co/datasets/krarit/hi-reaso
 ---
