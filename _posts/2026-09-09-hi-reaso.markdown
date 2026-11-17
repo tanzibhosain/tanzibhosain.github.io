@@ -4,7 +4,7 @@ title:  "HI-REASO: A Multi-Level Multi-Faceted Hindi Mathematical Evaluation Sui
 image: /images/hi-reaso.png
 categories: research
 author: "Md Tanzib Hosain"
-venue: EMNLP 2026 Findings
+venue: Findings of EMNLP 2026
 authors: "<strong>Md Tanzib Hosain</strong>, Rajan Das Gupta, Zannatul Ferdous Tripty, Md Kishor Morol"
 code: https://github.com/kraritt/hi-reaso/
 paper: https://aclanthology.org/2026.findings-emnlp.481/
