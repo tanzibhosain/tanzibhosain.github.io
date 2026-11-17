@@ -4,7 +4,7 @@ title:  "Xolver: Generalist Reasoning and Problem Solving through Federated Mult
 image: /images/xolver.png
 categories: research
 author: "Md Tanzib Hosain"
-venue: ICML 2026 AI4Math
+venue: ICML 2026 AI for Math workshop
 authors: "<strong>Md Tanzib Hosain</strong>, Salman Rahman, Md Kishor Morol, Md Rizwan Parvez"
 paper: https://openreview.net/forum?id=EvU0vEo7er
 code: https://github.com/kagnlp/Xolver/
