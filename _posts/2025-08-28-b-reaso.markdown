@@ -4,7 +4,7 @@ title:  "B-REASO: A Multi-Level Multi-Faceted Bengali Evaluation Suite for Found
 image: /images/b-reaso.png
 categories: research
 author: "Md Tanzib Hosain"
-venue: EMNLP 2025 Findings
+venue: Findings of EMNLP 2025
 authors: "<strong>Md Tanzib Hosain</strong>, Md Kishor Morol"
 paper: https://aclanthology.org/2025.findings-emnlp.492/
 code: https://github.com/kraritt/b-reaso/
